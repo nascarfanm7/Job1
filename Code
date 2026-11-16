@@ -1,0 +1,3 @@
+gh repo fork MadsLorentzen/ai-job-search --clone
+cd ai-job-search
+claude
